@@ -1,0 +1,4 @@
+#Archivos python
+*.pyc
+#Archivos temporales
+*.swp
